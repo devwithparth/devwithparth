@@ -1,48 +1,77 @@
-# 💫 Hi 👋, I'm Parth Gupta
-**A passionate Website Developer || Genrative AI Expert **
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=200&section=header&text=Parth%20Gupta&fontSize=50&fontColor=2DD4AA&animation=fadeIn" />
 
-Email Me 👉 ✉️ **devwithparth@gmail.com** For Collaboration/Project or Anything Else. 😊
+<h3 align="center">💫 Hi, I'm Parth — Full Stack Web Developer | Exploring Generative AI</h3>
 
-- 🌱 **I’m currently learning:** full stack development
-- 💬 **Ask me about:** Collaboration, web Support
-- 📫 **How to reach me:** devwithpartth@gmail.com
-- 😄 **Pronouns:** Dev Parth
-- ⚡ **Fun fact:** I Love web and web Love Me
+<p align="center">
+I build web apps with React, Tailwind, and Three.js, and I'm currently deepening my full-stack skills.
+Looking for junior/full-stack developer roles and freelance collaborations.
+</p>
 
-## 🔗 I am a website developer. 😊😊
-![Status](https://img.shields.io/badge/Status-Open%20to%20Freelance-brightgreen?style=for-the-badge)
+<p align="center">
+<a href="mailto:devwithparth@gmail.com"><img src="https://img.shields.io/badge/Email-2DD4AA?style=for-the-badge&logo=gmail&logoColor=0D1117" /></a>
+<a href="https://linkedin.com/in/devwithparth"><img src="https://img.shields.io/badge/LinkedIn-2DD4AA?style=for-the-badge&logo=linkedin&logoColor=0D1117" /></a>
+<a href="https://youtube.com/@ParthBuilds"><img src="https://img.shields.io/badge/YouTube-2DD4AA?style=for-the-badge&logo=YouTube&logoColor=0D1117" /></a>
+<a href="https://instagram.com/parth_builds"><img src="https://img.shields.io/badge/Instagram-2DD4AA?style=for-the-badge&logo=Instagram&logoColor=0D1117" /></a>
+<a href="https://facebook.com/devwithparth"><img src="https://img.shields.io/badge/Facebook-2DD4AA?style=for-the-badge&logo=Facebook&logoColor=0D1117" /></a>
+</p>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/devwithparth) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/parth_builds) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/devwithparth) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@ParthBuilds) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:devwithparth@gmail.com) 
-
-
-
-![Profile Views](https://komarev.com/ghpvc/?username=devwithparth&color=4F46E5&style=flat-square&label=Profile+Views)
-<!-- Snake Game Repo View -->
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=devwithparth&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=devwithparth&theme=gotham&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=devwithparth&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=devwithparth&theme=gotham&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=devwithparth&limit=5&theme=gotham&combine_all_yearly_contributions=true)
+<p align="center">
+<img src="https://img.shields.io/badge/Status-Open%20to%20Work%20%2F%20Freelance-2DD4AA?style=for-the-badge&logoColor=0D1117" />
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=devwithparth&icon=2&color=0)]
 
+## 🚀 Pinned Projects
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Replace these with your 3-4 strongest repos. This section matters more to recruiters than any widget below. -->
 
+| Project | Description | Tech | Links |
+|---|---|---|---|
+| **[Project Name](https://github.com/devwithparth/repo)** | One-line description of what it does and the problem it solves | React, Tailwind | [Live Demo](#) · [Repo](#) |
+| **[Project Name](https://github.com/devwithparth/repo)** | One-line description | Three.js, JS | [Live Demo](#) · [Repo](#) |
+| **[Project Name](https://github.com/devwithparth/repo)** | One-line description | Python | [Live Demo](#) · [Repo](#) |
+
+---
+
+## 🧑‍💻 About Me
+
+- 🌱 **Currently learning:** Full stack development
+- 💬 **Ask me about:** Web development, collaboration, GenAI tools
+- 📫 **Reach me at:** devwithparth@gmail.com
+- ⚡ **Fun fact:** I love web dev, and web dev loves me back
+
+---
+
+## 💻 Tech Stack
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,threejs,c,python,git,github,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=devwithparth&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)
+![](https://streak-stats.demolab.com/?user=devwithparth&theme=gotham&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=devwithparth&theme=gotham&hide_border=false&layout=compact)
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=devwithparth&theme=gotham&no-frame=false&no-bg=true&margin-w=4)
+
+## 📈 Activity Graph
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=devwithparth&theme=github-compact&bg_color=0D1117&color=2DD4AA&line=2DD4AA&point=FFFFFF&area=true&hide_border=false)
+
+### ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gotham)
+
+---
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=devwithparth&color=2DD4AA&style=flat-square&label=Profile+Views" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=100&section=footer" />
