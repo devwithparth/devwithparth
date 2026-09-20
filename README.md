@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm Imran Alam
+# 💫 Hi 👋, I'm Parth Gupta
 **A passionate Website Developer || Genrative AI Expert **
 
 Email Me 👉 ✉️ **devwithparth@gmail.com** For Collaboration/Project or Anything Else. 😊
@@ -10,14 +10,14 @@ Email Me 👉 ✉️ **devwithparth@gmail.com** For Collaboration/Project or Any
 - ⚡ **Fun fact:** I Love web and web Love Me
 
 ## 🔗 I am a website developer. 😊😊
+![Status](https://img.shields.io/badge/Status-Open%20to%20Freelance-brightgreen?style=for-the-badge)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/devwithparth) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/parth_builds) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/devwithparth) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@ParthBuilds) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:devwithparth@gmail.com) 
 
 
 
-[![](https://visitcount.itsvg.in/api?id=alamimran613&icon=1&color=4)](https://visitcount.itsvg.in)
-
+![Profile Views](https://komarev.com/ghpvc/?username=devwithparth&color=4F46E5&style=flat-square&label=Profile+Views)
 <!-- Snake Game Repo View -->
 
 <div align="center">
@@ -41,6 +41,8 @@ Email Me 👉 ✉️ **devwithparth@gmail.com** For Collaboration/Project or Any
 ![](https://github-contributor-stats.vercel.app/api?username=devwithparth&limit=5&theme=gotham&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=devwithparth&icon=2&color=0)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=devwithparth&icon=2&color=0)]
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
